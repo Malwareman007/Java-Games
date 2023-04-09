@@ -4,7 +4,7 @@ jdk:
   - openjdk14
 
 # use standard user mode to build the project.
-sudo: false
+sudo: true
 
 # Send a notification to the mail youremail@mail.com (Change to your own) if the assembly has fallen
 notifications:
