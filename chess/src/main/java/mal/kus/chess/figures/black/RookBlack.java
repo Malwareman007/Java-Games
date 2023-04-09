@@ -3,12 +3,6 @@ package mal.kus.chess.figures.black;
 import mal.kus.chess.figures.Cell;
 import mal.kus.chess.figures.Figure;
 
-/**
- *
- * @author Petr Arsentev (parsentev@yandex.ru)
- * @version $Id$
- * @since 0.1
- */
 public class RookBlack implements Figure {
     private final Cell position;
 
