@@ -1,0 +1,9 @@
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at com.jade.KeyListener.keyCallback(KeyListener.java:16)
+	at org.lwjgl.glfw.GLFWKeyCallbackI.callback(GLFWKeyCallbackI.java:37)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwPollEvents(GLFW.java:3094)
+	at com.jade.Window.loop(Window.java:152)
+	at com.jade.Window.run(Window.java:58)
+	at com.main.Main.trueMain(Main.java:57)
+	at com.main.Main.main(Main.java:51)
