@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Warmonger
+ *
+ */
+module Game {
+}
